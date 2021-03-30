@@ -5,16 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script
       src="https://kit.fontawesome.com/64d58efce2.js"
-      crossorigin="anonymous"
-    ></script>
-    <link rel="stylesheet" href="style2.css" />
+      crossorigin="anonymous">
+    </script>
+    <link rel="stylesheet" href="styles.css" />
     <title>Sign in & Sign up Form</title>
   </head>
   <body>
       <header>
           <h1>Chit-Chat</h1>
       </header>
-  
+
+      
+  <!-- Sign in container -->
+
     <div class="container">
       <div class="forms-container">
         <div class="signin-signup">
@@ -44,6 +47,10 @@
                 <i class="fab fa-linkedin-in"></i>
               </a>
             </div>
+
+         <!-- end of sign in -->
+
+
           </form>
           <form action="#" class="sign-up-form">
             <h2 class="title">Sign up</h2>
@@ -91,7 +98,7 @@
               Sign up
             </button>
           </div>
-          <img src="log.svg" class="image" alt="" />
+          <img src="images/log.svg" class="image" alt="" />
         </div>
         <div class="panel right-panel">
           <div class="content">
@@ -104,7 +111,7 @@
               Sign in
             </button>
           </div>
-          <img src="register.svg" class="image" alt="" />
+          <img src="images/register.svg" class="image" alt="" />
         </div>
       </div>
     </div>
