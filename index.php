@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script
       src="https://kit.fontawesome.com/64d58efce2.js"
-      crossorigin="anonymous"
-    ></script>
-    <link rel="stylesheet" href="style2.css" />
+      crossorigin="anonymous">
+    </script>
+    <link rel="stylesheet" href="styles.css" />
     <title>Sign in & Sign up Form</title>
   </head>
   <body>
@@ -91,7 +91,7 @@
               Sign up
             </button>
           </div>
-          <img src="log.svg" class="image" alt="" />
+          <img src="images/log.svg" class="image" alt="" />
         </div>
         <div class="panel right-panel">
           <div class="content">
@@ -104,7 +104,7 @@
               Sign in
             </button>
           </div>
-          <img src="register.svg" class="image" alt="" />
+          <img src="images/register.svg" class="image" alt="" />
         </div>
       </div>
     </div>
